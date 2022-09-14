@@ -1,4 +1,4 @@
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=H4cking2theGate&count_private=true&show_icons=true&theme=maroongold" /> </div>
+<div align="right"> <img src="https://github-readme-stats.vercel.app/api?username=H4cking2theGate&count_private=true&show_icons=true&theme=maroongold" /> </div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4cking2theGate&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
