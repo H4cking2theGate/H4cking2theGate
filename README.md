@@ -1,6 +1,7 @@
-<div align="right"> <img src="https://github-readme-stats.vercel.app/api?username=H4cking2theGate&count_private=true&show_icons=true&theme=maroongold" /> </div>
-
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4cking2theGate&layout=compact&theme=cobalt2" /> </div>
+<p align = "center">
+  <img height="245px" src="https://github-readme-stats.vercel.app/api?username=H4cking2theGate&count_private=true&show_icons=true&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4cking2theGate&theme=maroongold" />
+</p>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=H4cking2theGate" /> </div>
 
