@@ -3,7 +3,7 @@
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4cking2theGate&hide=css,html&theme=aura" />
 </p>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=H4cking2theGate&theme=apprentice" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=H4cking2theGate&theme=vision-friendly-dark" /> </div>
 
 <!--
 **H4cking2theGate/H4cking2theGate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
