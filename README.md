@@ -34,11 +34,13 @@
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4cking2theGate&hide=css,html&theme=aura" />
 </p>
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=H4cking2theGate&theme=maroongold" /> </div>
+
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=H4cking2theGate&theme=redical">
 </p>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=H4cking2theGate&theme=vision-friendly-dark" /> </div>
+
 
 
 
