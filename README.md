@@ -2,24 +2,19 @@
 
 <p align="center">
 <h3 align="center"> 🚀 Technology Stack</h3>
-
-
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   
 </p>
 
- 
-
-
 
 <p align = "center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=H4cking2theGate&count_private=true&show_icons=true&theme=codeSTACKr" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4cking2theGate&hide=css,html&theme=aura" />
 </p>
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=H4cking2theGate&theme=maroongold" /> </div>
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=H4cking2theGate&theme=redical">
