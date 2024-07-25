@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hacking to the Gate.</h1>
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/H4cking2theGate/H4cking2theGate/blob/main/img/code.png" width="50%" height="auto" />
 
 ### About me
 - 💻 Currently major in Cybersecurity
