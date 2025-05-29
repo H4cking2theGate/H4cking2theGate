@@ -5,7 +5,6 @@
 ### About me
 - 💻 Currently major in Cybersecurity
 - 🔭 CTFer @Dubhe. 
-- ⭐️ Worked as an intern at @chaitin. [Web Security Research]
 - 📫 How to reach me: h4cking2thegate@gmail.com
 - 📝 Blog: https://h4cking2thegate.github.io/
 
