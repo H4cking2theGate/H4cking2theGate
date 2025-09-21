@@ -4,9 +4,10 @@
 
 ### About me
 - 💻 Currently major in Cybersecurity
-- 🔭 CTFer @Dubhe. 
+- 🔭 CTFer@Dubhe. 
 - 📫 How to reach me: h4cking2thegate@gmail.com
-- 📝 Blog: https://h4cking2thegate.github.io/
+- 📝 Blog: https://h2tg.zip/
+- ☠️ My CVE [List](CVEs.md)
 
 ### Things I am currently working on:
 - 🌱 Code Audit
